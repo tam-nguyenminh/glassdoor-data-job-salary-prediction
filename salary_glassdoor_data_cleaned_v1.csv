@@ -1,0 +1,347 @@
+Industry,Sector,job_state,Type of ownership,Size,Revenue,python_yn,spark,aws,excel,new_col,Revenue_num,Size_num,avg_salary
+Advertising & Marketing,Business Services, CA,Company - Private,51 to 200 employees,Unknown / Non-Applicable,1,1,0,0,6,12,6,114.0
+Advertising & Marketing,Business Services, IL,Company - Private,51 to 200 employees,other,0,0,0,0,6,12,6,87.5
+Advertising & Marketing,Business Services, MA,Company - Public,201 to 500 employees,$100 to $500 million (USD),1,0,0,0,6,12,6,56.5
+Advertising & Marketing,Business Services, NJ,Company - Private,1001 to 5000 employees,Unknown / Non-Applicable,1,0,1,1,6,12,6,114.0
+Advertising & Marketing,Business Services, NY,Company - Private,51 to 200 employees,Unknown / Non-Applicable,1,0,0,1,6,12,6,114.5
+Advertising & Marketing,Business Services, NY,Company - Public,201 to 500 employees,Unknown / Non-Applicable,1,1,1,1,6,12,6,104.5
+Advertising & Marketing,Business Services, PA,Company - Private,201 to 500 employees,other,0,0,0,1,6,12,6,56.5
+Advertising & Marketing,Business Services, TX,Company - Private,1 to 50 employees,Unknown / Non-Applicable,1,0,0,1,6,12,6,83.5
+Advertising & Marketing,Business Services, TX,other,501 to 1000 employees,$50 to $100 million (USD),0,0,0,0,6,12,6,110.0
+Advertising & Marketing,Business Services,other,Company - Private,1001 to 5000 employees,$1 to $2 billion (USD),0,1,1,0,6,12,6,134.0
+Advertising & Marketing,Business Services,other,Company - Private,201 to 500 employees,$100 to $500 million (USD),1,0,0,1,6,12,6,100.0
+Advertising & Marketing,Business Services,other,Company - Private,201 to 500 employees,Unknown / Non-Applicable,0,0,0,1,6,12,6,87.5
+Advertising & Marketing,Business Services,other,Company - Private,201 to 500 employees,Unknown / Non-Applicable,1,1,1,1,6,12,6,65.5
+Advertising & Marketing,Business Services,other,Company - Public,1001 to 5000 employees,$1 to $2 billion (USD),1,1,0,0,6,12,6,96.5
+Advertising & Marketing,Business Services,other,Company - Public,51 to 200 employees,other,1,1,1,1,6,12,6,71.5
+Advertising & Marketing,Business Services,other,other,501 to 1000 employees,Unknown / Non-Applicable,1,0,0,1,6,12,6,91.0
+Aerospace & Defense,other, CA,Company - Public,10000+ employees,$10+ billion (USD),0,0,0,1,6,12,6,109.5
+Aerospace & Defense,other, MA,Company - Private,201 to 500 employees,$100 to $500 million (USD),1,1,0,1,6,12,6,110.0
+Aerospace & Defense,other, MD,Company - Public,10000+ employees,$10+ billion (USD),1,0,0,0,6,12,6,99.0
+Aerospace & Defense,other, MD,Nonprofit Organization,5001 to 10000 employees,$1 to $2 billion (USD),1,0,0,1,6,12,6,130.0
+Aerospace & Defense,other, VA,Company - Private,1001 to 5000 employees,$1 to $2 billion (USD),1,0,0,1,6,12,6,110.0
+Aerospace & Defense,other, VA,Company - Private,1001 to 5000 employees,$1 to $2 billion (USD),1,1,0,0,6,12,6,118.5
+Aerospace & Defense,other, VA,Company - Private,201 to 500 employees,$100 to $500 million (USD),1,1,0,1,6,12,6,107.0
+Aerospace & Defense,other, VA,Company - Private,51 to 200 employees,other,1,0,0,0,6,12,6,101.0
+Aerospace & Defense,other, VA,Company - Public,10000+ employees,$10+ billion (USD),1,0,1,0,6,12,6,101.5
+Aerospace & Defense,other, VA,Company - Public,10000+ employees,$10+ billion (USD),1,1,0,1,6,12,6,89.0
+Aerospace & Defense,other, VA,Company - Public,5001 to 10000 employees,other,1,1,0,0,6,12,6,105.5
+Aerospace & Defense,other, VA,Company - Public,501 to 1000 employees,$100 to $500 million (USD),1,0,0,0,6,12,6,87.0
+Aerospace & Defense,other,other,Company - Private,1 to 50 employees,Unknown / Non-Applicable,1,1,1,1,6,12,6,100.5
+Aerospace & Defense,other,other,Company - Private,1001 to 5000 employees,$100 to $500 million (USD),1,0,0,1,6,12,6,68.0
+Aerospace & Defense,other,other,Company - Private,501 to 1000 employees,$100 to $500 million (USD),0,0,0,0,6,12,6,86.5
+Aerospace & Defense,other,other,Company - Private,501 to 1000 employees,$50 to $100 million (USD),1,0,0,1,6,12,6,72.0
+Aerospace & Defense,other,other,Company - Private,51 to 200 employees,other,1,0,0,1,6,12,6,59.0
+Aerospace & Defense,other,other,Company - Public,10000+ employees,$10+ billion (USD),0,0,0,1,6,12,6,62.5
+Aerospace & Defense,other,other,Company - Public,5001 to 10000 employees,$500 million to $1 billion (USD),1,0,0,0,6,12,6,96.0
+Biotech & Pharmaceuticals,Biotech & Pharmaceuticals, CA,Company - Private,1 to 50 employees,Unknown / Non-Applicable,1,0,0,1,6,12,6,143.5
+Biotech & Pharmaceuticals,Biotech & Pharmaceuticals, CA,Company - Private,501 to 1000 employees,$50 to $100 million (USD),0,0,0,0,6,12,6,70.5
+Biotech & Pharmaceuticals,Biotech & Pharmaceuticals, CA,Company - Private,501 to 1000 employees,Unknown / Non-Applicable,0,0,1,1,6,12,6,92.0
+Biotech & Pharmaceuticals,Biotech & Pharmaceuticals, CA,Company - Public,201 to 500 employees,other,0,0,0,1,6,12,6,111.5
+Biotech & Pharmaceuticals,Biotech & Pharmaceuticals, CA,Company - Public,5001 to 10000 employees,$1 to $2 billion (USD),1,0,0,1,6,12,6,147.5
+Biotech & Pharmaceuticals,Biotech & Pharmaceuticals, CA,Company - Public,501 to 1000 employees,Unknown / Non-Applicable,0,0,0,1,6,12,6,93.75
+Biotech & Pharmaceuticals,Biotech & Pharmaceuticals, CA,other,10000+ employees,$10+ billion (USD),0,0,0,1,6,12,6,125.0
+Biotech & Pharmaceuticals,Biotech & Pharmaceuticals, CA,other,201 to 500 employees,Unknown / Non-Applicable,0,0,0,0,6,12,6,73.0
+Biotech & Pharmaceuticals,Biotech & Pharmaceuticals, IL,Company - Private,501 to 1000 employees,Unknown / Non-Applicable,1,0,1,0,6,12,6,133.0
+Biotech & Pharmaceuticals,Biotech & Pharmaceuticals, MA,Company - Private,1001 to 5000 employees,$1 to $2 billion (USD),1,0,0,1,6,12,6,145.0
+Biotech & Pharmaceuticals,Biotech & Pharmaceuticals, MA,Company - Private,201 to 500 employees,Unknown / Non-Applicable,1,0,0,1,6,12,6,112.5
+Biotech & Pharmaceuticals,Biotech & Pharmaceuticals, MA,Company - Private,51 to 200 employees,other,0,0,1,0,6,12,6,87.5
+Biotech & Pharmaceuticals,Biotech & Pharmaceuticals, MA,Company - Private,51 to 200 employees,other,1,0,0,1,6,12,6,118.0
+Biotech & Pharmaceuticals,Biotech & Pharmaceuticals, MA,Company - Public,10000+ employees,$10+ billion (USD),0,0,0,0,6,12,6,118.83333333333333
+Biotech & Pharmaceuticals,Biotech & Pharmaceuticals, MA,Company - Public,10000+ employees,$10+ billion (USD),0,0,0,1,6,12,6,108.25
+Biotech & Pharmaceuticals,Biotech & Pharmaceuticals, MA,Company - Public,10000+ employees,$10+ billion (USD),0,0,1,0,6,12,6,87.5
+Biotech & Pharmaceuticals,Biotech & Pharmaceuticals, MA,Company - Public,10000+ employees,$10+ billion (USD),1,0,0,0,6,12,6,110.5
+Biotech & Pharmaceuticals,Biotech & Pharmaceuticals, MA,Company - Public,10000+ employees,$10+ billion (USD),1,0,1,1,6,12,6,86.5
+Biotech & Pharmaceuticals,Biotech & Pharmaceuticals, MA,Company - Public,10000+ employees,$10+ billion (USD),1,1,0,0,6,12,6,113.5
+Biotech & Pharmaceuticals,Biotech & Pharmaceuticals, MA,Company - Public,10000+ employees,$10+ billion (USD),1,1,1,1,6,12,6,102.5
+Biotech & Pharmaceuticals,Biotech & Pharmaceuticals, MA,Company - Public,201 to 500 employees,$100 to $500 million (USD),0,0,0,0,6,12,6,105.5
+Biotech & Pharmaceuticals,Biotech & Pharmaceuticals, MA,Company - Public,201 to 500 employees,Unknown / Non-Applicable,0,0,0,1,6,12,6,115.75
+Biotech & Pharmaceuticals,Biotech & Pharmaceuticals, MA,Company - Public,501 to 1000 employees,$50 to $100 million (USD),0,0,0,0,6,12,6,120.5
+Biotech & Pharmaceuticals,Biotech & Pharmaceuticals, MA,Company - Public,501 to 1000 employees,$50 to $100 million (USD),0,0,0,1,6,12,6,96.5
+Biotech & Pharmaceuticals,Biotech & Pharmaceuticals, MA,Company - Public,51 to 200 employees,other,0,0,0,1,6,12,6,102.0
+Biotech & Pharmaceuticals,Biotech & Pharmaceuticals, MD,Company - Private,201 to 500 employees,other,0,0,0,0,6,12,6,81.0
+Biotech & Pharmaceuticals,Biotech & Pharmaceuticals, MD,Company - Private,201 to 500 employees,other,0,0,0,1,6,12,6,80.9
+Biotech & Pharmaceuticals,Biotech & Pharmaceuticals, MD,Company - Public,10000+ employees,$10+ billion (USD),0,0,0,0,6,12,6,94.0
+Biotech & Pharmaceuticals,Biotech & Pharmaceuticals, MD,Company - Public,10000+ employees,$10+ billion (USD),1,0,0,1,6,12,6,142.5
+Biotech & Pharmaceuticals,Biotech & Pharmaceuticals, NY,Company - Private,1001 to 5000 employees,Unknown / Non-Applicable,0,0,0,1,6,12,6,70.0
+Biotech & Pharmaceuticals,Biotech & Pharmaceuticals, NY,Company - Public,10000+ employees,$10+ billion (USD),1,0,0,0,6,12,6,137.0
+Biotech & Pharmaceuticals,Biotech & Pharmaceuticals, PA,Company - Public,10000+ employees,other,0,0,0,0,6,12,6,111.5
+Biotech & Pharmaceuticals,Biotech & Pharmaceuticals, PA,other,1001 to 5000 employees,$100 to $500 million (USD),0,0,0,1,6,12,6,72.5
+Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,other,Company - Private,1001 to 5000 employees,Unknown / Non-Applicable,0,0,0,1,6,12,6,80.0
+Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,other,Company - Private,501 to 1000 employees,Unknown / Non-Applicable,1,1,0,0,6,12,6,68.5
+Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,other,Company - Private,51 to 200 employees,other,1,0,1,0,6,12,6,140.5
+Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,other,Company - Public,10000+ employees,$10+ billion (USD),0,0,1,1,6,12,6,84.0
+Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,other,Company - Public,201 to 500 employees,$100 to $500 million (USD),1,0,0,1,6,12,6,101.0
+Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,other,Company - Public,5001 to 10000 employees,$1 to $2 billion (USD),1,0,0,1,6,12,6,94.83333333333333
+Computer Hardware & Software,Information Technology, CA,Company - Private,1001 to 5000 employees,$1 to $2 billion (USD),1,1,0,1,6,12,6,68.5
+Computer Hardware & Software,Information Technology, CA,Company - Private,1001 to 5000 employees,$1 to $2 billion (USD),1,1,1,0,6,12,6,107.0
+Computer Hardware & Software,Information Technology, CA,Company - Private,201 to 500 employees,$100 to $500 million (USD),0,0,0,0,6,12,6,121.5
+Computer Hardware & Software,Information Technology, CA,Company - Private,51 to 200 employees,Unknown / Non-Applicable,1,1,0,1,6,12,6,85.5
+Computer Hardware & Software,Information Technology, CA,Company - Private,51 to 200 employees,other,0,0,0,1,6,12,6,61.5
+Computer Hardware & Software,Information Technology, CA,Company - Public,10000+ employees,$10+ billion (USD),1,1,1,0,6,12,6,98.5
+Computer Hardware & Software,Information Technology, CA,Company - Public,5001 to 10000 employees,$1 to $2 billion (USD),1,0,0,1,6,12,6,107.0
+Computer Hardware & Software,Information Technology, CA,Company - Public,5001 to 10000 employees,other,1,1,0,0,6,12,6,108.0
+Computer Hardware & Software,Information Technology, CA,Company - Public,51 to 200 employees,Unknown / Non-Applicable,1,0,0,0,6,12,6,138.5
+Computer Hardware & Software,Information Technology, CA,Company - Public,51 to 200 employees,other,1,0,1,1,6,12,6,139.0
+Computer Hardware & Software,Information Technology, IL,Company - Private,51 to 200 employees,other,0,0,0,1,6,12,6,77.5
+Computer Hardware & Software,Information Technology, IL,Company - Private,51 to 200 employees,other,0,1,0,1,6,12,6,100.0
+Computer Hardware & Software,Information Technology, IL,Company - Public,10000+ employees,other,1,1,0,0,6,12,6,61.0
+Computer Hardware & Software,Information Technology, MA,Company - Private,1001 to 5000 employees,$1 to $2 billion (USD),1,0,0,0,6,12,6,139.5
+Computer Hardware & Software,Information Technology, MD,Company - Private,51 to 200 employees,other,0,0,0,1,6,12,6,93.5
+Computer Hardware & Software,Information Technology, NJ,Company - Private,201 to 500 employees,Unknown / Non-Applicable,0,0,0,1,6,12,6,56.5
+Computer Hardware & Software,Information Technology, NY,Company - Private,1001 to 5000 employees,Unknown / Non-Applicable,1,0,1,1,6,12,6,125.0
+Computer Hardware & Software,Information Technology, TX,Company - Private,501 to 1000 employees,Unknown / Non-Applicable,0,1,1,0,6,12,6,149.5
+Computer Hardware & Software,Information Technology, VA,Company - Private,1001 to 5000 employees,$1 to $2 billion (USD),1,0,0,0,6,12,6,82.0
+Computer Hardware & Software,Information Technology,other,Company - Private,201 to 500 employees,Unknown / Non-Applicable,1,0,1,0,6,12,6,122.0
+Computer Hardware & Software,Information Technology,other,Company - Private,5001 to 10000 employees,$1 to $2 billion (USD),1,1,1,0,6,12,6,112.5
+Computer Hardware & Software,Information Technology,other,Company - Private,501 to 1000 employees,Unknown / Non-Applicable,0,0,0,1,6,12,6,70.5
+Computer Hardware & Software,Information Technology,other,Company - Private,51 to 200 employees,Unknown / Non-Applicable,0,0,0,1,6,12,6,130.0
+Computer Hardware & Software,Information Technology,other,Company - Private,51 to 200 employees,other,1,0,0,1,6,12,6,79.5
+Computer Hardware & Software,Information Technology,other,Company - Public,10000+ employees,Unknown / Non-Applicable,0,0,0,0,6,12,6,85.25
+Computer Hardware & Software,Information Technology,other,Company - Public,10000+ employees,Unknown / Non-Applicable,0,1,1,0,6,12,6,128.0
+Consulting,Business Services, CA,Company - Private,201 to 500 employees,other,1,1,1,1,6,12,6,114.0
+Consulting,Business Services, CA,Company - Private,51 to 200 employees,other,1,0,0,0,6,12,6,52.5
+Consulting,Business Services, CA,Company - Public,1001 to 5000 employees,other,0,0,0,1,6,12,6,123.5
+Consulting,Business Services, IL,Company - Private,201 to 500 employees,$50 to $100 million (USD),1,0,0,0,6,12,6,95.5
+Consulting,Business Services, IL,Company - Private,201 to 500 employees,$50 to $100 million (USD),1,0,1,1,6,12,6,116.625
+Consulting,Business Services, MA,Company - Private,1001 to 5000 employees,$100 to $500 million (USD),0,1,0,1,6,12,6,107.5
+Consulting,Business Services, MA,Company - Private,51 to 200 employees,other,1,1,1,0,6,12,6,94.0
+Consulting,Business Services, NY,Company - Private,1001 to 5000 employees,$100 to $500 million (USD),1,1,0,1,6,12,6,97.0
+Consulting,Business Services, NY,Company - Private,201 to 500 employees,$50 to $100 million (USD),1,0,0,1,6,12,6,114.5
+Consulting,Business Services, NY,Company - Private,201 to 500 employees,other,1,1,1,0,6,12,6,115.0
+Consulting,Business Services, NY,Company - Public,10000+ employees,other,1,0,1,0,6,12,6,80.5
+Consulting,Business Services, TX,Company - Private,201 to 500 employees,$50 to $100 million (USD),1,0,1,0,6,12,6,93.0
+Consulting,Business Services, TX,other,201 to 500 employees,Unknown / Non-Applicable,1,1,1,1,6,12,6,72.5
+Consulting,Business Services, VA,Company - Private,201 to 500 employees,$50 to $100 million (USD),1,0,1,1,6,12,6,87.0
+Consulting,Business Services,other,Company - Private,201 to 500 employees,Unknown / Non-Applicable,1,0,0,1,6,12,6,76.0
+Consulting,Business Services,other,Company - Private,51 to 200 employees,Unknown / Non-Applicable,1,1,1,0,6,12,6,106.5
+Consulting,Business Services,other,Company - Private,51 to 200 employees,other,0,1,1,0,6,12,6,95.0
+Consulting,Business Services,other,Company - Private,51 to 200 employees,other,1,0,0,0,6,12,6,96.5
+Consulting,Business Services,other,Company - Private,51 to 200 employees,other,1,1,1,0,6,12,6,122.5
+Enterprise Software & Network Solutions,Information Technology, CA,Company - Private,1 to 50 employees,Unknown / Non-Applicable,0,1,1,0,6,12,6,103.0
+Enterprise Software & Network Solutions,Information Technology, CA,Company - Private,51 to 200 employees,Unknown / Non-Applicable,0,0,0,0,6,12,6,142.5
+Enterprise Software & Network Solutions,Information Technology, CA,Company - Private,51 to 200 employees,Unknown / Non-Applicable,0,1,0,1,6,12,6,132.5
+Enterprise Software & Network Solutions,Information Technology, CA,Company - Private,51 to 200 employees,Unknown / Non-Applicable,1,0,0,0,6,12,6,120.5
+Enterprise Software & Network Solutions,Information Technology, CA,Company - Private,51 to 200 employees,Unknown / Non-Applicable,1,0,0,1,6,12,6,69.0
+Enterprise Software & Network Solutions,Information Technology, IL,Company - Private,201 to 500 employees,Unknown / Non-Applicable,1,1,1,1,6,12,6,137.5
+Enterprise Software & Network Solutions,Information Technology, IL,Company - Private,501 to 1000 employees,$100 to $500 million (USD),1,0,0,0,6,12,6,66.5
+Enterprise Software & Network Solutions,Information Technology, MA,Company - Private,201 to 500 employees,Unknown / Non-Applicable,1,0,0,1,6,12,6,100.5
+Enterprise Software & Network Solutions,Information Technology, NJ,Company - Private,201 to 500 employees,Unknown / Non-Applicable,0,0,0,1,6,12,6,59.0
+Enterprise Software & Network Solutions,Information Technology, NY,Company - Public,10000+ employees,$10+ billion (USD),1,1,0,1,6,12,6,147.0
+Enterprise Software & Network Solutions,Information Technology, NY,Company - Public,1001 to 5000 employees,$500 million to $1 billion (USD),0,0,1,1,6,12,6,86.5
+Enterprise Software & Network Solutions,Information Technology, NY,Company - Public,1001 to 5000 employees,$500 million to $1 billion (USD),1,0,1,0,6,12,6,123.5
+Enterprise Software & Network Solutions,Information Technology, VA,Company - Private,1 to 50 employees,Unknown / Non-Applicable,1,1,0,0,6,12,6,109.0
+Enterprise Software & Network Solutions,Information Technology, VA,Company - Private,501 to 1000 employees,$100 to $500 million (USD),1,0,0,0,6,12,6,94.0
+Enterprise Software & Network Solutions,Information Technology, VA,Company - Private,501 to 1000 employees,$100 to $500 million (USD),1,0,1,0,6,12,6,143.75
+Enterprise Software & Network Solutions,Information Technology, VA,Company - Private,501 to 1000 employees,$100 to $500 million (USD),1,1,1,0,6,12,6,97.0
+Enterprise Software & Network Solutions,Information Technology,other,Company - Private,1 to 50 employees,Unknown / Non-Applicable,1,0,0,0,6,12,6,66.5
+Enterprise Software & Network Solutions,Information Technology,other,Company - Private,1 to 50 employees,Unknown / Non-Applicable,1,1,0,0,6,12,6,90.5
+Enterprise Software & Network Solutions,Information Technology,other,Company - Private,201 to 500 employees,other,0,0,0,1,6,12,6,55.0
+Enterprise Software & Network Solutions,Information Technology,other,Company - Private,501 to 1000 employees,$100 to $500 million (USD),1,1,0,1,6,12,6,85.5
+Health Care Services & Hospitals,other, CA,Company - Private,501 to 1000 employees,Unknown / Non-Applicable,1,1,1,1,6,12,6,94.5
+Health Care Services & Hospitals,other, CA,Company - Private,51 to 200 employees,other,1,0,0,0,6,12,6,124.0
+Health Care Services & Hospitals,other, CA,Nonprofit Organization,1001 to 5000 employees,Unknown / Non-Applicable,1,1,0,0,6,12,6,119.5
+Health Care Services & Hospitals,other, CA,Nonprofit Organization,501 to 1000 employees,$500 million to $1 billion (USD),0,0,0,0,6,12,6,64.0
+Health Care Services & Hospitals,other, MD,Company - Private,1001 to 5000 employees,$500 million to $1 billion (USD),0,0,0,0,6,12,6,107.5
+Health Care Services & Hospitals,other, MD,Company - Private,201 to 500 employees,Unknown / Non-Applicable,1,0,0,0,6,12,6,107.5
+Health Care Services & Hospitals,other, MD,other,10000+ employees,other,1,0,0,0,6,12,6,87.5
+Health Care Services & Hospitals,other, NY,Company - Private,1 to 50 employees,other,0,0,0,1,6,12,6,66.0
+Health Care Services & Hospitals,other, NY,Company - Private,201 to 500 employees,Unknown / Non-Applicable,1,1,1,0,6,12,6,95.0
+Health Care Services & Hospitals,other, NY,other,10000+ employees,$500 million to $1 billion (USD),0,0,0,0,6,12,6,81.14285714285714
+Health Care Services & Hospitals,other, PA,Company - Private,201 to 500 employees,$500 million to $1 billion (USD),0,0,0,1,6,12,6,69.5
+Health Care Services & Hospitals,other, VA,Nonprofit Organization,10000+ employees,$1 to $2 billion (USD),0,0,0,1,6,12,6,81.0
+Health Care Services & Hospitals,other,other,Company - Private,1001 to 5000 employees,Unknown / Non-Applicable,0,0,1,1,6,12,6,109.0
+Health Care Services & Hospitals,other,other,Company - Public,501 to 1000 employees,Unknown / Non-Applicable,0,0,0,0,6,12,6,100.0
+Health Care Services & Hospitals,other,other,Nonprofit Organization,501 to 1000 employees,Unknown / Non-Applicable,0,0,0,1,6,12,6,50.0
+Health Care Services & Hospitals,other,other,other,1001 to 5000 employees,Unknown / Non-Applicable,0,0,0,1,6,12,6,61.5
+IT Services,Information Technology, CA,Company - Private,1 to 50 employees,other,1,0,0,0,6,12,6,111.25
+IT Services,Information Technology, CA,Company - Private,10000+ employees,$500 million to $1 billion (USD),1,0,0,1,6,12,6,113.5
+IT Services,Information Technology, CA,Company - Private,201 to 500 employees,$50 to $100 million (USD),1,0,1,1,6,12,6,88.0
+IT Services,Information Technology, CA,Company - Private,201 to 500 employees,Unknown / Non-Applicable,1,0,0,1,6,12,6,106.0
+IT Services,Information Technology, CA,Company - Public,10000+ employees,Unknown / Non-Applicable,1,0,0,1,6,12,6,90.0
+IT Services,Information Technology, MD,Company - Private,1 to 50 employees,Unknown / Non-Applicable,1,0,0,0,6,12,6,133.0
+IT Services,Information Technology, MD,Company - Private,1001 to 5000 employees,$100 to $500 million (USD),0,0,0,1,6,12,6,72.5
+IT Services,Information Technology, MD,Company - Private,201 to 500 employees,other,0,0,1,0,6,12,6,109.0
+IT Services,Information Technology, MD,Company - Private,201 to 500 employees,other,1,0,0,1,6,12,6,86.0
+IT Services,Information Technology, MD,Company - Private,51 to 200 employees,other,0,0,0,0,6,12,6,106.5
+IT Services,Information Technology, MD,other,10000+ employees,$10+ billion (USD),0,0,0,0,6,12,6,85.5
+IT Services,Information Technology, NJ,Company - Private,201 to 500 employees,Unknown / Non-Applicable,1,0,0,1,6,12,6,77.5
+IT Services,Information Technology, NY,Company - Private,1 to 50 employees,Unknown / Non-Applicable,1,0,0,1,6,12,6,145.5
+IT Services,Information Technology, TX,Company - Private,501 to 1000 employees,$1 to $2 billion (USD),1,1,0,1,6,12,6,80.0
+IT Services,Information Technology, TX,Company - Private,501 to 1000 employees,$50 to $100 million (USD),0,1,0,0,6,12,6,75.5
+IT Services,Information Technology, VA,Company - Private,501 to 1000 employees,$100 to $500 million (USD),0,0,0,1,6,12,6,71.0
+IT Services,Information Technology, VA,Company - Private,501 to 1000 employees,$100 to $500 million (USD),1,0,0,1,6,12,6,99.0
+IT Services,Information Technology, VA,Company - Private,501 to 1000 employees,$100 to $500 million (USD),1,1,0,0,6,12,6,112.0
+IT Services,Information Technology, VA,Company - Private,51 to 200 employees,Unknown / Non-Applicable,1,1,1,0,6,12,6,85.0
+IT Services,Information Technology, VA,Company - Public,10000+ employees,$10+ billion (USD),1,1,0,0,6,12,6,89.5
+IT Services,Information Technology,other,Company - Private,10000+ employees,other,0,0,0,0,6,12,6,87.0
+IT Services,Information Technology,other,Company - Private,1001 to 5000 employees,$100 to $500 million (USD),1,1,0,0,6,12,6,95.5
+IT Services,Information Technology,other,Company - Private,201 to 500 employees,$50 to $100 million (USD),1,0,0,1,6,12,6,69.5
+IT Services,Information Technology,other,Company - Private,201 to 500 employees,Unknown / Non-Applicable,1,0,0,1,6,12,6,85.5
+IT Services,Information Technology,other,Company - Private,201 to 500 employees,other,0,0,1,0,6,12,6,88.5
+IT Services,Information Technology,other,Company - Private,501 to 1000 employees,$50 to $100 million (USD),1,1,1,0,6,12,6,60.5
+IT Services,Information Technology,other,Company - Private,51 to 200 employees,Unknown / Non-Applicable,0,0,0,0,6,12,6,132.5
+IT Services,Information Technology,other,Company - Private,51 to 200 employees,Unknown / Non-Applicable,1,1,0,0,6,12,6,143.5
+IT Services,Information Technology,other,Company - Private,51 to 200 employees,other,0,0,0,0,6,12,6,89.0
+IT Services,Information Technology,other,Company - Public,10000+ employees,$10+ billion (USD),0,0,0,1,6,12,6,62.5
+IT Services,Information Technology,other,other,10000+ employees,$10+ billion (USD),0,0,0,1,6,12,6,77.0
+Insurance Carriers,Insurance, CA,Company - Private,501 to 1000 employees,$500 million to $1 billion (USD),0,0,0,0,6,12,6,83.0
+Insurance Carriers,Insurance, CA,Company - Private,51 to 200 employees,other,1,1,0,0,6,12,6,108.0
+Insurance Carriers,Insurance, IL,Company - Private,1001 to 5000 employees,other,1,1,0,1,6,12,6,58.5
+Insurance Carriers,Insurance, MA,Company - Private,10000+ employees,$10+ billion (USD),0,0,0,0,6,12,6,53.0
+Insurance Carriers,Insurance, MA,Company - Private,10000+ employees,$10+ billion (USD),1,0,0,0,6,12,6,114.5
+Insurance Carriers,Insurance, MA,Company - Private,1001 to 5000 employees,$100 to $500 million (USD),0,1,0,1,6,12,6,90.0
+Insurance Carriers,Insurance, MA,Company - Private,5001 to 10000 employees,$10+ billion (USD),0,0,0,0,6,12,6,101.0
+Insurance Carriers,Insurance, MA,Company - Private,5001 to 10000 employees,$10+ billion (USD),0,0,0,1,6,12,6,65.75
+Insurance Carriers,Insurance, MA,Company - Private,5001 to 10000 employees,$10+ billion (USD),0,1,1,1,6,12,6,91.5
+Insurance Carriers,Insurance, MA,Company - Private,5001 to 10000 employees,$10+ billion (USD),1,0,0,0,6,12,6,81.0
+Insurance Carriers,Insurance, MA,Company - Private,5001 to 10000 employees,$10+ billion (USD),1,1,0,1,6,12,6,92.0
+Insurance Carriers,Insurance, MA,Company - Private,5001 to 10000 employees,$10+ billion (USD),1,1,1,1,6,12,6,129.5
+Insurance Carriers,Insurance, MA,Company - Public,5001 to 10000 employees,other,0,0,0,0,6,12,6,54.0
+Insurance Carriers,Insurance, MA,Company - Public,5001 to 10000 employees,other,1,0,0,1,6,12,6,146.5
+Insurance Carriers,Insurance, MD,Company - Private,501 to 1000 employees,$500 million to $1 billion (USD),1,0,0,1,6,12,6,107.0
+Insurance Carriers,Insurance, NJ,Company - Private,1001 to 5000 employees,other,0,0,0,1,6,12,6,98.5
+Insurance Carriers,Insurance, NY,Company - Private,201 to 500 employees,$100 to $500 million (USD),1,0,0,1,6,12,6,108.25
+Insurance Carriers,Insurance, NY,Company - Public,1001 to 5000 employees,$1 to $2 billion (USD),1,1,1,0,6,12,6,147.0
+Insurance Carriers,Insurance, PA,Company - Private,5001 to 10000 employees,other,0,0,0,1,6,12,6,66.5
+Insurance Carriers,Insurance,other,Company - Private,10000+ employees,$10+ billion (USD),1,0,0,1,6,12,6,51.5
+Insurance Carriers,Insurance,other,Company - Private,1001 to 5000 employees,$1 to $2 billion (USD),0,0,0,0,6,12,6,100.5
+Insurance Carriers,Insurance,other,Company - Private,1001 to 5000 employees,other,0,0,0,1,6,12,6,56.5
+Insurance Carriers,Insurance,other,Company - Public,10000+ employees,other,0,0,0,1,6,12,6,110.5
+Insurance Carriers,Insurance,other,Company - Public,1001 to 5000 employees,Unknown / Non-Applicable,1,1,0,1,6,12,6,124.5
+Insurance Carriers,Insurance,other,Company - Public,1001 to 5000 employees,other,1,1,1,1,6,12,6,102.0
+Insurance Carriers,Insurance,other,Nonprofit Organization,5001 to 10000 employees,other,0,0,0,1,6,12,6,106.5
+Insurance Carriers,Insurance,other,Nonprofit Organization,501 to 1000 employees,$500 million to $1 billion (USD),1,0,0,1,6,12,6,87.5
+Insurance Carriers,Insurance,other,Nonprofit Organization,501 to 1000 employees,$500 million to $1 billion (USD),1,0,1,0,6,12,6,99.0
+Insurance Carriers,Insurance,other,Nonprofit Organization,501 to 1000 employees,Unknown / Non-Applicable,0,0,1,0,6,12,6,100.0
+Insurance Carriers,Insurance,other,other,201 to 500 employees,$100 to $500 million (USD),1,0,0,1,6,12,6,115.5
+Internet,Information Technology, CA,Company - Private,1 to 50 employees,Unknown / Non-Applicable,1,0,0,0,6,12,6,116.5
+Internet,Information Technology, CA,Company - Private,201 to 500 employees,$100 to $500 million (USD),1,0,1,1,6,12,6,87.5
+Internet,Information Technology, CA,Company - Private,201 to 500 employees,other,0,0,0,0,6,12,6,136.5
+Internet,Information Technology, CA,Company - Private,201 to 500 employees,other,1,1,0,0,6,12,6,63.5
+Internet,Information Technology, CA,Company - Private,501 to 1000 employees,Unknown / Non-Applicable,1,1,0,0,6,12,6,127.0
+Internet,Information Technology, IL,Company - Private,501 to 1000 employees,$100 to $500 million (USD),1,1,1,0,6,12,6,100.0
+Internet,Information Technology, MA,Company - Private,51 to 200 employees,Unknown / Non-Applicable,1,1,0,0,6,12,6,84.5
+Internet,Information Technology, NJ,Company - Private,201 to 500 employees,Unknown / Non-Applicable,1,0,0,0,6,12,6,78.0
+Internet,Information Technology, NY,Company - Private,201 to 500 employees,Unknown / Non-Applicable,1,1,0,1,6,12,6,83.0
+Internet,Information Technology, NY,Company - Private,51 to 200 employees,$100 to $500 million (USD),1,1,0,0,6,12,6,140.0
+Internet,Information Technology,other,Company - Private,201 to 500 employees,Unknown / Non-Applicable,1,1,0,0,6,12,6,105.5
+Internet,Information Technology,other,Company - Private,51 to 200 employees,Unknown / Non-Applicable,1,1,1,0,6,12,6,122.0
+Internet,Information Technology,other,Company - Public,1001 to 5000 employees,$100 to $500 million (USD),1,1,1,0,6,12,6,102.5
+Internet,Information Technology,other,Company - Public,1001 to 5000 employees,$100 to $500 million (USD),1,1,1,1,6,12,6,88.0
+other,Business Services, CA,Company - Private,51 to 200 employees,other,0,0,0,1,6,12,6,51.0
+other,Business Services, CA,Company - Private,51 to 200 employees,other,1,0,1,0,6,12,6,94.5
+other,Business Services, MA,other,51 to 200 employees,other,0,0,1,1,6,12,6,121.0
+other,Business Services, MD,Company - Private,501 to 1000 employees,$100 to $500 million (USD),0,0,0,1,6,12,6,62.0
+other,Business Services, NY,Company - Private,501 to 1000 employees,Unknown / Non-Applicable,1,0,0,0,6,12,6,85.5
+other,Business Services, NY,Company - Private,501 to 1000 employees,Unknown / Non-Applicable,1,0,1,1,6,12,6,64.5
+other,Business Services, NY,Company - Private,51 to 200 employees,Unknown / Non-Applicable,1,1,0,0,6,12,6,121.0
+other,Business Services, NY,Company - Public,1001 to 5000 employees,$1 to $2 billion (USD),1,0,0,1,6,12,6,76.5
+other,Business Services, PA,Company - Private,1 to 50 employees,other,0,0,0,1,6,12,6,127.5
+other,Business Services, PA,Company - Private,1 to 50 employees,other,1,0,1,0,6,12,6,74.0
+other,Business Services, PA,Company - Private,1 to 50 employees,other,1,1,1,0,6,12,6,128.5
+other,Business Services, PA,Company - Private,1 to 50 employees,other,1,1,1,1,6,12,6,91.5
+other,Business Services, TX,Company - Private,51 to 200 employees,other,1,1,0,0,6,12,6,138.5
+other,Business Services, TX,Nonprofit Organization,1001 to 5000 employees,$500 million to $1 billion (USD),0,0,0,0,6,12,6,60.0
+other,Business Services, TX,Nonprofit Organization,1001 to 5000 employees,$500 million to $1 billion (USD),1,0,1,1,6,12,6,71.5
+other,Business Services, VA,Company - Public,5001 to 10000 employees,$1 to $2 billion (USD),0,0,0,0,6,12,6,83.125
+other,Business Services,other,Company - Private,1001 to 5000 employees,Unknown / Non-Applicable,0,1,1,1,6,12,6,65.5
+other,Business Services,other,Company - Private,201 to 500 employees,other,0,0,0,0,6,12,6,60.5
+other,Business Services,other,Company - Private,501 to 1000 employees,$100 to $500 million (USD),0,0,0,1,6,12,6,53.5
+other,Business Services,other,Company - Private,501 to 1000 employees,$100 to $500 million (USD),1,0,0,1,6,12,6,61.0
+other,Business Services,other,Company - Private,501 to 1000 employees,$100 to $500 million (USD),1,1,0,1,6,12,6,85.0
+other,Business Services,other,Nonprofit Organization,1001 to 5000 employees,$500 million to $1 billion (USD),0,0,0,0,6,12,6,65.5
+other,Business Services,other,other,501 to 1000 employees,$50 to $100 million (USD),0,0,0,1,6,12,6,76.0
+other,Insurance, NY,Company - Public,10000+ employees,$10+ billion (USD),1,0,0,1,6,12,6,123.0
+other,Insurance, TX,Company - Private,201 to 500 employees,Unknown / Non-Applicable,0,0,0,1,6,12,6,96.0
+other,Insurance,other,Company - Private,1001 to 5000 employees,other,1,0,0,0,6,12,6,94.5
+other,other, CA,Company - Private,1 to 50 employees,Unknown / Non-Applicable,1,0,1,1,6,12,6,111.0
+other,other, CA,Company - Private,1 to 50 employees,other,1,1,0,0,6,12,6,113.5
+other,other, CA,Company - Private,10000+ employees,Unknown / Non-Applicable,1,0,0,0,6,12,6,121.0
+other,other, CA,Company - Private,1001 to 5000 employees,$1 to $2 billion (USD),0,0,0,1,6,12,6,81.5
+other,other, CA,Company - Private,501 to 1000 employees,Unknown / Non-Applicable,0,0,0,1,6,12,6,85.5
+other,other, CA,Company - Private,51 to 200 employees,$50 to $100 million (USD),1,0,0,0,6,12,6,148.0
+other,other, CA,Company - Private,51 to 200 employees,Unknown / Non-Applicable,0,0,0,1,6,12,6,103.5
+other,other, CA,Company - Private,51 to 200 employees,other,1,0,0,0,6,12,6,139.5
+other,other, CA,Company - Public,1001 to 5000 employees,$10+ billion (USD),1,0,0,1,6,12,6,92.5
+other,other, CA,Company - Public,1001 to 5000 employees,$10+ billion (USD),1,1,1,1,6,12,6,113.0
+other,other, CA,Company - Public,1001 to 5000 employees,$500 million to $1 billion (USD),1,0,1,1,6,12,6,101.0
+other,other, CA,Company - Public,5001 to 10000 employees,other,1,1,0,1,6,12,6,121.0
+other,other, CA,Company - Public,5001 to 10000 employees,other,1,1,1,1,6,12,6,142.0
+other,other, CA,Company - Public,501 to 1000 employees,$50 to $100 million (USD),0,0,0,0,6,12,6,139.5
+other,other, CA,other,201 to 500 employees,other,1,0,1,0,6,12,6,103.0
+other,other, CA,other,51 to 200 employees,$100 to $500 million (USD),0,0,0,1,6,12,6,51.5
+other,other, IL,Company - Private,501 to 1000 employees,$100 to $500 million (USD),0,0,0,0,6,12,6,52.5
+other,other, IL,Company - Private,501 to 1000 employees,Unknown / Non-Applicable,1,0,1,1,6,12,6,112.5
+other,other, IL,Company - Public,10000+ employees,$10+ billion (USD),0,0,0,0,6,12,6,81.0
+other,other, IL,Company - Public,1001 to 5000 employees,other,0,0,0,0,6,12,6,107.5
+other,other, IL,Company - Public,1001 to 5000 employees,other,1,1,0,1,6,12,6,117.5
+other,other, IL,Company - Public,5001 to 10000 employees,$1 to $2 billion (USD),1,0,0,1,6,12,6,140.0
+other,other, MA,Company - Private,10000+ employees,$10+ billion (USD),1,0,0,1,6,12,6,62.5
+other,other, MA,Company - Private,201 to 500 employees,$50 to $100 million (USD),0,0,0,1,6,12,6,100.5
+other,other, MA,Nonprofit Organization,5001 to 10000 employees,$1 to $2 billion (USD),1,0,0,1,6,12,6,69.5
+other,other, MD,Company - Private,501 to 1000 employees,Unknown / Non-Applicable,0,0,0,1,6,12,6,73.5
+other,other, NJ,Company - Public,10000+ employees,$10+ billion (USD),0,0,0,1,6,12,6,116.5
+other,other, NJ,Company - Public,1001 to 5000 employees,other,1,0,0,1,6,12,6,109.5
+other,other, NJ,Company - Public,5001 to 10000 employees,other,0,0,1,0,6,12,6,82.5
+other,other, NJ,Company - Public,501 to 1000 employees,other,0,0,1,0,6,12,6,58.0
+other,other, NJ,other,1001 to 5000 employees,Unknown / Non-Applicable,0,0,0,1,6,12,6,146.0
+other,other, NY,Company - Private,1001 to 5000 employees,other,0,0,0,1,6,12,6,65.0
+other,other, NY,Company - Private,1001 to 5000 employees,other,1,0,0,1,6,12,6,53.5
+other,other, NY,Company - Private,1001 to 5000 employees,other,1,1,0,0,6,12,6,74.5
+other,other, NY,Company - Private,201 to 500 employees,$100 to $500 million (USD),0,0,0,1,6,12,6,87.0
+other,other, NY,Company - Private,201 to 500 employees,$100 to $500 million (USD),1,0,0,1,6,12,6,87.5
+other,other, NY,Company - Private,501 to 1000 employees,Unknown / Non-Applicable,1,0,0,1,6,12,6,97.5
+other,other, NY,Company - Private,51 to 200 employees,Unknown / Non-Applicable,1,0,1,0,6,12,6,75.5
+other,other, NY,Company - Public,1001 to 5000 employees,$500 million to $1 billion (USD),1,0,0,0,6,12,6,128.0
+other,other, NY,other,10000+ employees,other,0,0,1,1,6,12,6,73.0
+other,other, NY,other,1001 to 5000 employees,$100 to $500 million (USD),1,0,0,1,6,12,6,59.5
+other,other, NY,other,1001 to 5000 employees,$500 million to $1 billion (USD),1,1,0,0,6,12,6,128.0
+other,other, PA,Company - Private,1001 to 5000 employees,$1 to $2 billion (USD),1,0,0,0,6,12,6,98.0
+other,other, PA,Company - Public,10000+ employees,other,1,0,0,0,6,12,6,85.0
+other,other, PA,other,501 to 1000 employees,Unknown / Non-Applicable,0,0,0,0,6,12,6,124.0
+other,other, PA,other,501 to 1000 employees,Unknown / Non-Applicable,0,0,0,1,6,12,6,73.5
+other,other, PA,other,501 to 1000 employees,Unknown / Non-Applicable,1,0,0,0,6,12,6,115.83333333333333
+other,other, PA,other,501 to 1000 employees,Unknown / Non-Applicable,1,0,0,1,6,12,6,124.0
+other,other, TX,Company - Private,1001 to 5000 employees,$100 to $500 million (USD),1,0,0,1,6,12,6,85.0
+other,other, TX,Company - Public,10000+ employees,$10+ billion (USD),0,0,0,0,6,12,6,139.0
+other,other, TX,Company - Public,201 to 500 employees,$1 to $2 billion (USD),1,0,1,1,6,12,6,95.0
+other,other, TX,other,1001 to 5000 employees,Unknown / Non-Applicable,1,0,0,0,6,12,6,87.5
+other,other, TX,other,501 to 1000 employees,Unknown / Non-Applicable,1,0,1,0,6,12,6,105.5
+other,other, VA,Nonprofit Organization,201 to 500 employees,other,1,0,0,1,6,12,6,61.5
+other,other, VA,Nonprofit Organization,5001 to 10000 employees,$1 to $2 billion (USD),0,0,0,0,6,12,6,77.5
+other,other, VA,Nonprofit Organization,5001 to 10000 employees,$1 to $2 billion (USD),1,0,0,1,6,12,6,97.5
+other,other, VA,Nonprofit Organization,5001 to 10000 employees,$1 to $2 billion (USD),1,1,0,0,6,12,6,81.5
+other,other, VA,Nonprofit Organization,5001 to 10000 employees,$1 to $2 billion (USD),1,1,0,1,6,12,6,106.5
+other,other,other,Company - Private,10000+ employees,$10+ billion (USD),1,0,0,0,6,12,6,98.0
+other,other,other,Company - Private,1001 to 5000 employees,$1 to $2 billion (USD),0,0,0,1,6,12,6,77.5
+other,other,other,Company - Private,1001 to 5000 employees,$100 to $500 million (USD),0,0,0,1,6,12,6,107.5
+other,other,other,Company - Private,1001 to 5000 employees,$100 to $500 million (USD),1,1,1,1,6,12,6,99.5
+other,other,other,Company - Private,1001 to 5000 employees,$500 million to $1 billion (USD),1,0,0,0,6,12,6,96.0
+other,other,other,Company - Private,1001 to 5000 employees,Unknown / Non-Applicable,0,0,0,0,6,12,6,79.0
+other,other,other,Company - Private,1001 to 5000 employees,Unknown / Non-Applicable,0,1,0,1,6,12,6,70.5
+other,other,other,Company - Private,201 to 500 employees,Unknown / Non-Applicable,1,0,0,0,6,12,6,105.0
+other,other,other,Company - Private,5001 to 10000 employees,$10+ billion (USD),0,0,0,0,6,12,6,103.5
+other,other,other,Company - Private,5001 to 10000 employees,$10+ billion (USD),0,0,0,1,6,12,6,96.0
+other,other,other,Company - Private,501 to 1000 employees,$1 to $2 billion (USD),0,0,0,1,6,12,6,61.0
+other,other,other,Company - Private,501 to 1000 employees,$50 to $100 million (USD),0,0,0,0,6,12,6,80.5
+other,other,other,Company - Private,501 to 1000 employees,$50 to $100 million (USD),0,0,0,1,6,12,6,63.5
+other,other,other,Company - Private,501 to 1000 employees,Unknown / Non-Applicable,0,0,0,0,6,12,6,54.0
+other,other,other,Company - Public,10000+ employees,other,1,1,1,1,6,12,6,104.5
+other,other,other,Company - Public,1001 to 5000 employees,$1 to $2 billion (USD),0,0,1,1,6,12,6,60.0
+other,other,other,Company - Public,1001 to 5000 employees,$500 million to $1 billion (USD),1,0,0,0,6,12,6,107.5
+other,other,other,Company - Public,1001 to 5000 employees,$500 million to $1 billion (USD),1,0,0,1,6,12,6,124.5
+other,other,other,Company - Public,5001 to 10000 employees,$1 to $2 billion (USD),1,1,0,0,6,12,6,85.0
+other,other,other,Company - Public,501 to 1000 employees,$500 million to $1 billion (USD),1,0,0,1,6,12,6,87.0
+other,other,other,Nonprofit Organization,10000+ employees,Unknown / Non-Applicable,0,0,0,0,6,12,6,72.0
+other,other,other,Nonprofit Organization,10000+ employees,Unknown / Non-Applicable,0,0,0,1,6,12,6,107.0
+other,other,other,Nonprofit Organization,10000+ employees,Unknown / Non-Applicable,0,0,1,1,6,12,6,62.333333333333336
+other,other,other,Nonprofit Organization,1001 to 5000 employees,Unknown / Non-Applicable,0,0,0,1,6,12,6,52.5
+other,other,other,Nonprofit Organization,501 to 1000 employees,$50 to $100 million (USD),1,0,0,0,6,12,6,93.5
+other,other,other,Nonprofit Organization,51 to 200 employees,other,1,0,0,1,6,12,6,84.0
+other,other,other,other,1 to 50 employees,other,0,0,0,1,6,12,6,96.0
+other,other,other,other,1001 to 5000 employees,$500 million to $1 billion (USD),0,0,0,0,6,12,6,90.21428571428571
+other,other,other,other,1001 to 5000 employees,$500 million to $1 billion (USD),1,0,0,0,6,12,6,74.6
+other,other,other,other,201 to 500 employees,Unknown / Non-Applicable,1,0,1,0,6,12,6,107.0
+other,other,other,other,501 to 1000 employees,Unknown / Non-Applicable,1,1,1,1,6,12,6,65.0
+other,other,other,other,51 to 200 employees,$50 to $100 million (USD),1,0,0,0,6,12,6,120.0
